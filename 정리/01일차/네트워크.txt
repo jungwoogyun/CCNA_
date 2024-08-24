@@ -1,0 +1,21 @@
+1 OSI 모델중 3계층 모델이 하는 역할은 무엇인가요
+역할 : 경로탐색
+프로토콜 : IP(v4,v6),ICMP,ARP,ROUTING PROTOCOL,IGMP...
+장치 : Router
+
+2 3계층 관련 장치는 무엇인가요
+장치 : Router
+
+3 3계층 관련 프로토콜 종류는 어떤게 있나요
+프로토콜 : IP(v4,v6),ICMP,ARP,ROUTING PROTOCOL,IGMP...
+
+4 ICMP 의 용도는?
+통신여부 확인
+
+5 IP 의 용도는?
+INTERNET 주소체계
+
+6 Routing 프로토콜의 용도는?
+경로탐색용 프로그램
+
+

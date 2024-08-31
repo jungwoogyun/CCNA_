@@ -1,0 +1,16 @@
+ARP(Address Resolution Protocol)
+주소 해결 프로토콜
+
+LAN구간 통신
+IP주소 -> MAC주소학습 -> 통신
+
+MAC : 48bit
+할당가능주소개수 : 약 280조
+진수 : 16진수(0 - a,b,c,d,e,f)
+Format : 00-00-00-00-00-00 (00:00:00:00:00:00)
+Format : FF-FF-FF-FF-FF-FF(FF:FF:FF:FF:FF:FF)
+
+최초 : 3마디 (00-00-00) VENDER ID(제조사ID)
+마지막 3마디(00-00-00) DEVICE ID(장치마다 구별되는 ID)
+
+

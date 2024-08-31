@@ -1,0 +1,20 @@
+명령어
+enable	- 관리자모드
+config ter	-전역 설정 모드
+inter f?/?	- interface 진입 모드
+ip add 192.168.10.254 255.255.255.0	-ip 등록
+no shutdown 		- interface 활성화
+
+exit 	- 이전 모드로  이동
+end	- 관리자 모드로 이동
+
+ctrl+shift+6	- 관리자모드에서 잘못입력했을때..
+		- 도메인 lookup에서 빠져나오는키
+
+ip 확인
+	router# show ip int brief
+ip 잘못입력했을때 
+	enable
+	config ter
+	inter f?/?
+	no ip add
